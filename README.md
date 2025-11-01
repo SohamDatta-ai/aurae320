@@ -1,7 +1,7 @@
-# AURA — Emotional AI Companion (Local-friendly)
+#  AURA E 320 is part of my the project aura which is Local-friendly.
 
-AURA is a small Python chat companion that tries to be emotionally intelligent: it detects a user's emotion from text, keeps a short memory of recent conversations, and generates empathetic replies.
-
+ This is a local test project which uses the groq LLM for assistanct with the emotional context window  and the superbase to store the memory of  the conversations and uses that memory in the future conversations
+ 
 This project is designed to run with optional cloud integrations (Groq for model completions and Supabase for storing conversation history). However, it includes safe local fallbacks so you can run and test the app without any external services.
 
 ## Features
