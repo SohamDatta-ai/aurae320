@@ -84,11 +84,3 @@ Type messages and press Enter to chat. Type `quit`, `exit`, or `bye` to quit.
 
 MIT — feel free to adapt and reuse.
 
----
-
-If you'd like, I can also:
-
-- Add a `requirements.txt` and a `.env.example` file.
-- Wire a small test script that runs a few chat turns automatically and asserts behavior.
-
-Tell me which of those you'd like next.#
